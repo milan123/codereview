@@ -1,1 +1,17 @@
-This is Crucible evlauation
+The Crucible workflow
+This page provides an overview of Crucible workflows, followed by a simple example showing a code review between two people.
+On this page:
+Crucible Workflow
+Example workflow: Two participant code review
+1. The code author starts the review
+2. The reviewer comments on the code
+3. The author responds to the comments
+4. The author closes the review
+Roles
+Crucible is a flexible application that caters for a wide range of team sizes and work styles. You will need to know about the basic roles used in Crucible:
+authors: Usually the creator of the code; the person who will act on the review's outcome.
+reviewer: A participant that will comment on the source files in the review, raising points and discussion on the work that was done.
+moderator: Usually the person who starts the review and is responsible for deciding the outcomes and closing it. The moderator is disabled for the "agile" permission scheme to simplify workflow.
+Crucible Workflow
+There are a number of different ways in which you can use Crucible for code reviews. The following diagram shows the basic workflow that applies to most Crucible code reviews.
+Diagram: Workflow for One-to-One Reviews
